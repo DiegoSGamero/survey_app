@@ -72,3 +72,5 @@ group :test do
 end
 
 gem 'graphql'
+gem "graphiql-rails", github: 'rmosolgo/graphiql-rails', group: :development
+gem 'devise'
